@@ -1,0 +1,16 @@
+[project]
+name = "eleven"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dtaidistance>=2.3.13",
+    "elevenlabs>=2.26.1",
+    "mediapipe>=0.10.21",
+    "numpy>=1.26.4",
+    "opencv-python>=4.11.0.86",
+    "pygame>=2.6.1",
+    "python-dotenv>=1.2.1",
+    "scikit-learn>=1.8.0",
+]
